@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  CollectionViewBeginning
-//
-//  Created by user139405 on 1/8/19.
-//  Copyright © 2019 kabishau. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
