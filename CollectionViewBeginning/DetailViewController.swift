@@ -2,7 +2,7 @@ import UIKit
 
 class DetailViewController: UIViewController {
     
-    @IBOutlet weak var detailLabel: UILabel!
+    @IBOutlet private weak var detailLabel: UILabel!
     
     var selection: String!
 
